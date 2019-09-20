@@ -1,1 +1,5 @@
-name: pmmp-plugin-build-action
+name: 'pmmp-plugin-build-action'
+description: 'Build a PMMP Plugin'
+runs:
+  using: 'node12'
+  main: 'src/index.js'
