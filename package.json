@@ -1,0 +1,24 @@
+{
+  "name": "PMMP-Plugin-Build-Docker-Action",
+  "version": "1.0.0",
+  "description": "PMMPのプラグインをビルドするためのアクションです.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UramnOIL/PMMP-Plugin-Build-Docker-Action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UramnOIL/PMMP-Plugin-Build-Docker-Action/issues"
+  },
+  "homepage": "https://github.com/UramnOIL/PMMP-Plugin-Build-Docker-Action#readme",
+  "dependencies": {
+    "@actions/core": "^1.1.1",
+    "@actions/github": "^1.1.0"
+  }
+}
