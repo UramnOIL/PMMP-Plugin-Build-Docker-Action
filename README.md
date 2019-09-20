@@ -1,6 +1,6 @@
-# PMMP-Plugin-Build-Docker-Action
+# PMMP-Plugin-Build-Action
 PMMPのプラグインをビルドするためのアクションです.
 
 ## Example usage
 
-uses: actions/pmmp-plugin-build-docker-action
+uses: UramnOIL/pmmp-plugin-build-action
